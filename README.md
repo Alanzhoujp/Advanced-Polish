@@ -1,6 +1,6 @@
 # Advanced-Polish
 
-ProjectName: Synthwave Player
+Project Name: PolishPod101: Advanced Polish ver.1.0
 
 Programming Language: Java
 
